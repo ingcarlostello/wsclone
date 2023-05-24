@@ -22,6 +22,8 @@ app.use(cors());
 
 app.use(morgan("dev"));
 
+console.log('hola');
+
 //Rutas
 app.use("/api", authRoutes)
 app.use("/api", userRoutes)
