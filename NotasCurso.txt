@@ -1,0 +1,5 @@
+Archivo app.js ---> contiene la configuración de express. En el también importamos y cargamos las rutas después de crearlas.
+
+Carpeta controllers ---> para crear las acciones y operaciones sobre la BD
+
+Carpeta rutas ---> las rutas a las que responderá nuestra aplicación.
